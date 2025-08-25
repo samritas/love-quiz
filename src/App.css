@@ -1,0 +1,10 @@
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  background: linear-gradient(135deg, #fcd34d, #a78bfa, #fbbf24); /* soft cute gradient */
+  font-family: 'Arial', sans-serif;
+}
+
